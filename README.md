@@ -2,22 +2,32 @@
 
 ## Sobre o Projeto
 
-Nome: [Nome do Projeto]
+Nome: Forum Universitário: Tá na Mão
 
-[Descrição breve do projeto, seu propósito e funcionalidades principais]
+Objetivo: Criar uma plataforma acessível e confiável que funcione como uma rede de apoio para estudantes e vestibulandos, oferecendo ferramentas para facilitar seus estudos e acesso a oportunidades acadêmicas.
+
+Público-Alvo: Estudantes de diferentes níveis, especialmente aqueles se preparando para vestibulares e em busca de informações sobre bolsas, direitos e oportunidades acadêmicas.
+
+Principais Funcionalidades:
+
+Acesso a Informações: Disponibilização de dados sobre bolsas, direitos e oportunidades acadêmicas.
+Assistência da Mascote: Ekko, uma ferramenta que auxilia na navegação e interação com a plataforma.
+Rede de Apoio: Proporcionar interação e suporte confiáveis entre os usuários.
+Parcerias com Universidades: Facilitar o acesso a recursos e informações por meio de colaborações com instituições de ensino.
 
 ## Equipe
 
-- [Nome do Membro 1] - [Papel/Responsabilidade]
-- [Nome do Membro 2] - [Papel/Responsabilidade]
-- [Nome do Membro 3] - [Papel/Responsabilidade]
-- [Nome do Membro n] - [Papel/Responsabilidade]
+Lucas Teixeira - Líder do grupo/ revisão dos documentos e organização do grupo
+Leonardo Silveira Pontolio - escrita dos documentos
+Sophia Victoria Santos - organização de documentações e tópicos
+João Pedro Meira da Silva Braz de Mattos - escrita dos documentos
+João Vitor Teles - revisão dos documentos
 
 ## Tecnologias Utilizadas
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
+- Figma
+- Mermaid
+- VScode
 
 ## Estrutura do Repositório
 
@@ -33,7 +43,7 @@ Nome: [Nome do Projeto]
 
 ## Status do Projeto
 
-[Badges do status atual, progresso, ou outras métricas relevantes]
+Em desenvolvimento
 
 ## Entregas
 
