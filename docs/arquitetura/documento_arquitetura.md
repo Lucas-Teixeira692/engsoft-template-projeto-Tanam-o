@@ -4,8 +4,8 @@
 
 | Data       | Versão | Descrição             | Autor |
 | :--------- | :----- | :-------------------- | :---- |
-| 23/05/2025 | 1.0    | Versão inicial        | [Nome] |
-| 23/05/2025 | 1.1    | Detalhamento das metas, restrições, processos e melhorias com base nos documentos de teste e prototipagem. | [Nome] |
+| 21/04/2025 | 1.0    | Versão inicial        | LT |
+| 14/05/2025 | 1.1    | Detalhamento das metas, restrições, processos e melhorias com base nos documentos de teste e prototipagem. | LP |
 
 ### 1. Introdução
 
