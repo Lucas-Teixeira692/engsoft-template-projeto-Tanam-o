@@ -52,7 +52,7 @@ O grupo auxilia em praticamente todas as partes e depois, apenas dois testam as 
 
 ## 3.1 Ambientes de Teste
 
-* Visual Studio Code
+* Visual Studio Code.
 * Figma; Jira.
 
 ## 3.2 Equipe
@@ -146,9 +146,8 @@ O grupo auxilia em praticamente todas as partes e depois, apenas dois testam as 
 
 ## 7.1 Métricas para avaliar a eficácia dos testes
 
-* Número de defeitos encontrados e corrigidos
-* Porcentagem de casos de teste executados com sucesso
-* Feedback positivo dos usuários em relação à usabilidade
+* Porcentagem de casos de teste executados com sucesso = 75%
+* Feedback positivo dos usuários em relação à usabilidade = 50%
 * Aderência às diretrizes do guia de estilo
 
 ## 7.2 Critérios de cobertura mínima
