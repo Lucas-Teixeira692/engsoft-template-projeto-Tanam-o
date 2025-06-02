@@ -1,57 +1,58 @@
-# Caso de Teste: [ID]
+# Caso de Teste: CT-001
 
 ## Título
 
-[Título conciso do caso de teste]
+Teste de Login com credenciais válidas
 
 ## Objetivo
 
-[Objetivo do teste]
+Validar que o usuário consegue realizar login com um e-mail e senha válidos cadastrados no sistema.
 
 ## Requisitos/Histórias Relacionados
 
-- [Requisito/História 1]
-- [Requisito/História 2]
-- [Requisito/História n]
+- Login e Cadastro
+- SCRUM-4: Feedback (para avaliar se após login o sistema captura feedback corretamente)
 
 ## Pré-condições
 
-1. [Pré-condição 1]
-2. [Pré-condição 2]
-3. [Pré-condição n]
+1. O usuário deve estar previamente cadastrado no sistema.
+2. O sistema deve estar online e disponível para autenticação.
+3. O usuário deve possuir um e-mail e senha válidos.
 
 ## Dados de Teste
 
-- [Dados necessários para execução do teste]
+- E-mail: usuario@example.com
+- Senha: Senha123
 
 ## Passos
 
-1. [Passo 1]
-2. [Passo 2]
-3. [Passo n]
+1. Acessar a tela de login.
+2. Inserir o e-mail “usuario@example.com” no campo correspondente.
+3. Inserir a senha “Senha123” no campo correspondente.
+4. Clicar no botão “Entrar” ou “Login”.
 
 ## Resultado Esperado
 
-[Descrição do resultado esperado]
+O sistema autentica o usuário e redireciona para a tela inicial (Home Screen), exibindo as funcionalidades disponíveis.
 
 ## Pós-condições
 
-1. [Pós-condição 1]
-2. [Pós-condição 2]
-3. [Pós-condição n]
+1. Usuário está logado e com sessão ativa.
+2. Sistema mantém o estado do usuário para ações subsequentes.
+3. Registro de login efetuado no sistema para fins de auditoria.
 
 ## Tipo de Teste
 
-[Unitário, Integração, Sistema, Aceitação, etc.]
+Sistema
 
 ## Automação
 
-[Status de automação: Manual, Automatizado, Em progresso]
+Manual
 
 ## Prioridade
 
-[Alta, Média, Baixa]
+Alta
 
 ## Observações
 
-[Observações adicionais, se houver]
+Verificar se o botão de "Esqueci minha senha" está visível para casos de erro na autenticação.
