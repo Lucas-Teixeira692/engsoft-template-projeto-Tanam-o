@@ -2,9 +2,9 @@
 
 | Data       | Versão | Descrição                | Autor  |
 | ---------- | ------ | ------------------------ | ------ |
-| 17/09/2024 | 1.0    | Ideia inicial           | [Sophia] |
-| 25/04/2025 | 1.5    | Versão Alfa        | [Lucas T] |
-| 25/04/2025 | 2.0    | Versão Beta        | [Lucas T e Leo P] |
+| 17/09/2024 | 1.0    | Ideia inicial           | Sophia |
+| 25/04/2025 | 1.5    | Versão Alfa        | Lucas T |
+| 25/04/2025 | 2.0    | Versão Beta        | Lucas T e Leo P |
 
 
 
