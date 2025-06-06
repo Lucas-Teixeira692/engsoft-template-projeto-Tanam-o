@@ -1,5 +1,4 @@
-```
-# Plataforma Educacional "Tá na Mão"
+# Instruções e Diario de Bordo da Plataforma Educacional "Tá na Mão"
 
 ---
 
@@ -23,13 +22,13 @@ Esta proposta integra a tese de desenvolvimento de uma plataforma educacional on
 
 A proposta do sistema está organizada em cinco eixos principais:
 
-| Eixo | Descrição |
-|-------|-----------|
-| 1. Feed de Notícias | Página estilo rede social com notícias e conteúdos acadêmicos atualizados e personalizados. |
+| Eixo                      | Descrição                                                                               |
+| :------------------------ | :-------------------------------------------------------------------------------------- |
+| 1. Feed de Notícias       | Página estilo rede social com notícias e conteúdos acadêmicos atualizados e personalizados. |
 | 2. Documentação Personalizada | Apresentação de requisitos e prazos acadêmicos conforme o perfil regional e institucional do usuário. |
-| 3. Sistema de Favoritos | Permite salvar cursos, bolsas e instituições de interesse para acesso rápido. |
-| 4. Comunidade / Fóruns | Espaço inspirado no modelo Reddit com fóruns exclusivos, moderação eficaz e foco acadêmico. |
-| 5. Expansão & Monetização | Preparação para adicionar materiais de estudo e recursos pagos no futuro. |
+| 3. Sistema de Favoritos   | Permite salvar cursos, bolsas e instituições de interesse para acesso rápido.           |
+| 4. Comunidade / Fóruns    | Espaço inspirado no modelo Reddit com fóruns exclusivos, moderação eficaz e foco acadêmico. |
+| 5. Expansão & Monetização | Preparação para adicionar materiais de estudo e recursos pagos no futuro.               |
 
 ---
 
@@ -58,13 +57,13 @@ A proposta do sistema está organizada em cinco eixos principais:
 
 ### 3.4 Critérios de Entrada e Saída
 
-| Tipo de Teste   | Entrada                               | Critério de Saída                                 |
-|-----------------|-------------------------------------|--------------------------------------------------|
-| Unitário        | Código desenvolvido e revisado      | Componentes funcionais e sem erros                |
-| Integração      | Módulos testados unitariamente      | Módulos interagindo corretamente                  |
-| Sistema         | Plataforma integrada                 | Funcionalidades conformes aos requisitos          |
-| Usabilidade     | Protótipos ou versão funcional      | Feedback detalhado com identificação de melhorias |
-| Regressão       | Nova versão com alterações           | Funcionalidades anteriores preservadas             |
+| Tipo de Teste   | Entrada                             | Critério de Saída                                  |
+| :-------------- | :---------------------------------- | :------------------------------------------------- |
+| Unitário        | Código desenvolvido e revisado      | Componentes funcionais e sem erros                 |
+| Integração      | Módulos testados unitariamente      | Módulos interagindo corretamente                   |
+| Sistema         | Plataforma integrada                | Funcionalidades conformes aos requisitos           |
+| Usabilidade     | Protótipos ou versão funcional      | Feedback detalhado com identificação de melhorias  |
+| Regressão       | Nova versão com alterações          | Funcionalidades anteriores preservadas             |
 
 ### 3.5 Ferramentas de Teste
 
@@ -78,12 +77,12 @@ A proposta do sistema está organizada em cinco eixos principais:
 
 ## 4. Organização e Responsabilidades
 
-| SCRUM       | Responsáveis                        | Principais Atividades                                  |
-|-------------|-----------------------------------|------------------------------------------------------|
-| SCRUM-1     | Leonardo, João Pedro, Lucas (rev) | Conteúdos sobre bolsas, revisão e apresentação        |
-| SCRUM-2     | Leonardo, João Pedro, Lucas (rev) | Desenvolvimento e suporte Jinx, resolução de tickets  |
-| SCRUM-3     | Sophia, Lucas (rev)                | Implementação e teste de notificações                  |
-| SCRUM-4     | João Pedro, Lucas (rev)            | Coleta e análise de feedback, elaboração de relatórios |
+| SCRUM     | Responsáveis                     | Principais Atividades                                  |
+| :-------- | :------------------------------- | :----------------------------------------------------- |
+| SCRUM-1   | Leonardo, João Pedro, Lucas (rev) | Conteúdos sobre bolsas, revisão e apresentação         |
+| SCRUM-2   | Leonardo, João Pedro, Lucas (rev) | Desenvolvimento e suporte Jinx, resolução de tickets   |
+| SCRUM-3   | Sophia, Lucas (rev)              | Implementação e teste de notificações                  |
+| SCRUM-4   | João Pedro, Lucas (rev)          | Coleta e análise de feedback, elaboração de relatórios |
 
 ---
 
@@ -151,4 +150,3 @@ Inspirados pelas melhores práticas de design minimalista e elegante, a platafor
 ---
 
 Este documento serve como um guia articulado para o desenvolvimento integrado, testes e experiência do usuário da plataforma educacional “Tá na Mão”, garantindo alinhamento da visão técnica, operacional e de usabilidade.
-```
