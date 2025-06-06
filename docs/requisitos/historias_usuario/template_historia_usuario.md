@@ -46,3 +46,4 @@ Cadastro e login com validação institucional
 - Considerar suporte futuro a SSO institucional (ex: login com Sigepe ou Google Acadêmico da UFPE).
 - Incluir testes automatizados para o fluxo completo de autenticação.
 - Pode haver exceções para e-mails institucionais de professores com subdomínios.
+https://github.com/Lucas-Teixeira692/engsoft-template-projeto-Tanam-o/blob/320a8e501ef819668812e2e03c8e80d2481c4c83/docs/requisitos/matriz_rastreabilidade.md
