@@ -88,9 +88,3 @@ O processo para análise de impacto de mudanças nos requisitos da plataforma ed
 
 >[!IMPORTANT]
 >A matriz de rastreabilidade deve ser mantida atualizada durante todo o ciclo de desenvolvimento para garantir a integridade do sistema e facilitar a gestão de mudanças.
->
-
-
-
-
-docs/requisitos/documento_requisitos.md
