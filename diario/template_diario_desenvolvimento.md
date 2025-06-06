@@ -29,9 +29,8 @@
 - Lucas Teixeira: Desenvolvimento do frontend da plataforma.  
 - Leonardo P.: Implementação do backend e integração com o banco de dados.  
 - Sophia V.: Design e UX da plataforma, prototipação no Figma.  
-- João Victor Telles: Testes e validação das funcionalidades.  
-- Mateus Cordeiro: Documentação do projeto.
-
+- João Victor Telles: Testes e validação das funcionalidades.
+  
 ### Dificuldades e Soluções  
 **Desafios encontrados:**  
 - Integração dos diferentes módulos do sistema, garantindo a comunicação entre backend, frontend e banco de dados.  
