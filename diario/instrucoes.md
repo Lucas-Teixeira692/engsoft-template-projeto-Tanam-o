@@ -149,4 +149,6 @@ Inspirados pelas melhores práticas de design minimalista e elegante, a platafor
 - Continuidade dos testes integrados baseados no plano e feedbacks do público-alvo.
 
 ---
+
+Este documento serve como um guia articulado para o desenvolvimento integrado, testes e experiência do usuário da plataforma educacional “Tá na Mão”, garantindo alinhamento da visão técnica, operacional e de usabilidade.
 ```
