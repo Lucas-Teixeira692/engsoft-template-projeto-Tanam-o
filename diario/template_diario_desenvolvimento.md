@@ -1,7 +1,7 @@
 # Diário de Desenvolvimento - Projeto Integrador de Engenharia de Software  
 **Grupo:** Tá na Mão  
 
-**Integrantes:** João Pedro Meira, Lucas Teixeira, Leonardo P., Sophia V., João Victor Telles, Mateus Cordeiro, João Victor Razera, Iago Colombo  
+**Integrantes:** João Pedro Meira, Lucas Teixeira, Leonardo P., Sophia V., João Victor Telles, Mateus Cordeiro.  
 
 ---
 
