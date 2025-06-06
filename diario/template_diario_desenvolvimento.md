@@ -71,4 +71,4 @@
 - Apresentar o projeto para a orientadora e a empresa parceira.  
 
 ### Registros Visuais  
-[Espaço para capturas de tela, fotos de diagramas feitos em sala, ou outros registros visuais relevantes]  
+(https://www.figma.com/design/3aiyILrBwMFDE83wddJB4a/T%C3%A1-na-M%C3%A3o?node-id=0-1&t=IrVIoZmAl03eWCyy-1)  
