@@ -5,7 +5,7 @@
 
 ---
 
-## Semana 8
+## Semana 6 a 8
 ### Informações Básicas  
 **Data:** 23/05/2025 
 **Membros presentes:** João Pedro Meira, Lucas Teixeira, Leonardo P, Sophia V, João Victor Telles, Mateus Cordeiro, João Victor Razera e Iago Colombo
@@ -30,9 +30,7 @@
 - Leonardo P.: Implementação do backend e integração com o banco de dados.  
 - Sophia V.: Design e UX da plataforma, prototipação no Figma.  
 - João Victor Telles: Testes e validação das funcionalidades.  
-- Mateus Cordeiro: Documentação do projeto.  
-- João Victor Razera: Suporte na integração entre sistemas.  
-- Iago Colombo: Coordenação das atividades e comunicação com a empresa parceira usando Collab.  
+- Mateus Cordeiro: Documentação do projeto.
 
 ### Dificuldades e Soluções  
 **Desafios encontrados:**  
