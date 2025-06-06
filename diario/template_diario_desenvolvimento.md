@@ -1,14 +1,14 @@
 # Diário de Desenvolvimento - Projeto Integrador de Engenharia de Software  
 **Grupo:** Tá na Mão  
 
-**Integrantes:** João Pedro Meira, Lucas Teixeira, Leonardo P., Sophia V., João Victor Telles, Mateus Cordeiro.  
+**Integrantes:** João Pedro Meira, Lucas Teixeira, Leonardo P., Sophia V., João Victor Telles.  
 
 ---
 
 ## Semana 6 a 8
 ### Informações Básicas  
 **Data:** 23/05/2025 
-**Membros presentes:** João Pedro Meira, Lucas Teixeira, Leonardo P, Sophia V, João Victor Telles, Mateus Cordeiro, João Victor Razera e Iago Colombo
+**Membros presentes:** João Pedro Meira, Lucas Teixeira, Leonardo P, Sophia V, João Victor Telles.
 **Tema da semana:** Desenvolvimento da plataforma educacional digital 
 
 ### Atividades Realizadas  
