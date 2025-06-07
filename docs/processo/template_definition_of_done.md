@@ -4,16 +4,58 @@ Este documento define os critérios que devem ser atendidos para que uma histór
 
 ## História de Usuário
 
-Uma história de usuário é considerada "Pronta" quando:
+Historia de usuario 1:Ana Ribeiro
 
-- [X] Todos os critérios de aceitação foram atendidos
-- [ ] O código foi revisado por pelo menos um outro membro da equipe
-- [ ] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
-- [ ] Todos os testes automatizados estão passando
-- [ ] A documentação técnica foi atualizada
-- [ ] A funcionalidade foi demonstrada e aprovada pelo Product Owner
-- [ ] O código foi mesclado ao branch principal
-- [ ] A funcionalidade está disponível no ambiente de homologação
+https://github.com/Lucas-Teixeira692/engsoft-template-projeto-Tanam-o/blob/3f1a0166c01ae352bf7530b4e1da60b0bc2370e9/docs/requisitos/historias_usuario/template_historia_usuario.md
+
+- [x] Todos os critérios de aceitação foram atendidos
+- [x] O código foi revisado por pelo menos um outro membro da equipe
+- [x] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
+- [x] Todos os testes automatizados estão passando
+- [x] A documentação técnica foi atualizada
+- [x] A funcionalidade foi demonstrada e aprovada pelo Product Owner
+- [x] O código foi mesclado ao branch principal
+- [x] A funcionalidade está disponível no ambiente de homologação
+
+
+Historia de usuario 2: Lucas martins
+
+https://github.com/Lucas-Teixeira692/engsoft-template-projeto-Tanam-o/blob/3f1a0166c01ae352bf7530b4e1da60b0bc2370e9/docs/requisitos/historias_usuario/template_historia_usuario2.md
+
+- [x] Todos os critérios de aceitação foram atendidos
+- [x] O código foi revisado por pelo menos um outro membro da equipe
+- [x] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
+- [x] Todos os testes automatizados estão passando
+- [x] A documentação técnica foi atualizada
+- [x] A funcionalidade foi demonstrada e aprovada pelo Product Owner
+- [x] O código foi mesclado ao branch principal
+- [x] A funcionalidade está disponível no ambiente de homologação
+
+Historia de usuario 3:Beatriz Souza
+
+https://github.com/Lucas-Teixeira692/engsoft-template-projeto-Tanam-o/blob/3f1a0166c01ae352bf7530b4e1da60b0bc2370e9/docs/requisitos/historias_usuario/template_historia_usuario3.md
+
+- [x] Todos os critérios de aceitação foram atendidos
+- [x] O código foi revisado por pelo menos um outro membro da equipe
+- [x] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
+- [x] Todos os testes automatizados estão passando
+- [x] A documentação técnica foi atualizada
+- [x] A funcionalidade foi demonstrada e aprovada pelo Product Owner
+- [x] O código foi mesclado ao branch principal
+- [x] A funcionalidade está disponível no ambiente de homologação
+
+Historia de usuario 4:Felipe Andrade
+
+https://github.com/Lucas-Teixeira692/engsoft-template-projeto-Tanam-o/blob/3f1a0166c01ae352bf7530b4e1da60b0bc2370e9/docs/requisitos/historias_usuario/template_historia_usuario4.md
+
+- [x] Todos os critérios de aceitação foram atendidos
+- [x] O código foi revisado por pelo menos um outro membro da equipe
+- [x] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
+- [x] Todos os testes automatizados estão passando
+- [x] A documentação técnica foi atualizada
+- [x] A funcionalidade foi demonstrada e aprovada pelo Product Owner
+- [x] O código foi mesclado ao branch principal
+- [x] A funcionalidade está disponível no ambiente de homologação
 
 ## Sprint
 
