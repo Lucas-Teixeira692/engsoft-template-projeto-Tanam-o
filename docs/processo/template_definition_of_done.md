@@ -6,7 +6,7 @@ Este documento define os critérios que devem ser atendidos para que uma histór
 
 Uma história de usuário é considerada "Pronta" quando:
 
-- [ ] Todos os critérios de aceitação foram atendidos
+- [X] Todos os critérios de aceitação foram atendidos
 - [ ] O código foi revisado por pelo menos um outro membro da equipe
 - [ ] Foram escritos testes unitários cobrindo pelo menos 80% do novo código
 - [ ] Todos os testes automatizados estão passando
